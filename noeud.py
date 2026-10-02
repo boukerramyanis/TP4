@@ -56,6 +56,7 @@ class Noeud :
         plt.ylabel("f(" + variable + ")")
         plt.show()
 
+print("changemen")
         
         
 
